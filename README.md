@@ -17,4 +17,4 @@ introduktion till html och css
 * [Inspelning 2](https://vimeo.com/823081540?share=copy)
 
 ### Veckans övning:
-[länk](https://github.com/BFU-2023/Hyllningen)
+[Hyllningen](https://github.com/BFU-2023/Hyllningen)
