@@ -1,5 +1,5 @@
 # lektion-2-maj
-introduktion till html och css
+ntroduktion till HTML och CSS
 
 ### Dagens kod:
 [Repo](https://github.com/BFU-2023/lektion-2-maj/tree/main/projekt)
