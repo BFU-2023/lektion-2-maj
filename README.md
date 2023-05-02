@@ -13,6 +13,8 @@ introduktion till html och css
 * [CSS-tutorial](https://www.w3schools.com/css/)
 
 ### Vimeo-länk:
+[Inspelning 1](https://vimeo.com/823079807?share=copy)
+[Inspelning 2](https://vimeo.com/823081540?share=copy)
 
 ### Veckans övning:
 [länk](https://github.com/BFU-2023/Hyllningen)
